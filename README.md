@@ -1,7 +1,6 @@
 # Olá! Eu Sou a Verônica Santana e estou em transição de Carreira💎🛠
 - 🔭 Sou Técnica em administração.
 - 🔭 Agora também sou Desenvolvedora Full Stack Jr (Recode Pro)❤.
-- 💆‍ Estou estudando sobre inteligência emocional na Escola Conquer.
 - ⚙ Quero me aprofundar mais na biblioteca Reactjs e aproveitar todas praticidades que ela traz.
 - 📝 Ah! Gosto de aprender coisas novas e compartilhar ideias💡.
 - 😄 Pronome: ela/dela.
@@ -30,7 +29,7 @@
   <a href="https://instagram.com/eukellyrodriguees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.Verônica Santana#3719" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:veronicasantana1087@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "mailto:https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href = "mailto:https://outlook.live.com/veronica_rsantana/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/verônica-santana-4b49aa168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
